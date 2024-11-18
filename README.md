@@ -5,7 +5,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=taejun0)](https://velog.io/@taejun0/posts)
 
 # 기술 스택
-(https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![js](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 
 <!--
