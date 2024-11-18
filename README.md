@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejun0&hide=contribs,prs&show_icons=true&theme=black)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=taejun0)](https://velog.io/@taejun0/posts)
+
 <!--
 **taejun0/taejun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
