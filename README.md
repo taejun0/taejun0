@@ -34,4 +34,4 @@
 
 ## 📊 GitHub Stats
 
-![Taejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Taejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejun0&show_icons=true&theme=radical)
