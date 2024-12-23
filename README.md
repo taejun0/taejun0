@@ -1,4 +1,4 @@
-![Hi, It's Taejun's GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20It's%20Taejun's%20GitHub&fontSize=60&fontColor=white)
+![Hi, It's Taejun's GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20It's%20Taejun's%20GitHub&fontSize=30&fontColor=white&desc=Welcome%20to%20my%20GitHub!&descSize=20)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejun0&hide=contribs,prs&show_icons=true&theme=black)
 
