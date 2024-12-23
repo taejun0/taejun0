@@ -1,4 +1,8 @@
-![Hi, It's Taejun's GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Taejun's%20World!&fontSize=45&fontAlign=50&fontAlignY=40&desc=Frontend%20Dev%20|%20Backend%20Enthusiast&descAlign=50&descAlignY=70&descSize=20)
+![Hi, It's Taejun's GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Taejun's%20Github!&fontSize=45&fontAlign=50&fontAlignY=40&desc=Frontend%20Dev%20|%20Backend%20Enthusiast&descAlign=50&descAlignY=70&descSize=20)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{taejun0}"/>
+</a>
 
 ## 🛠 Tech Stack
 
