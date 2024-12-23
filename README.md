@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi I'm TAEJUN%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HiI'mTAEJUN%20render&fontSize=90" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejun0&hide=contribs,prs&show_icons=true&theme=black)
 
