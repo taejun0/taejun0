@@ -1,7 +1,5 @@
 ![Hi, It's Taejun's GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Taejun's%20World!&fontSize=45&fontAlign=50&fontAlignY=40&desc=Frontend%20Dev%20|%20Backend%20Enthusiast&descAlign=50&descAlignY=70&descSize=20)
-<br />
-<br />
-<br />
+
 ## 🛠 Tech Stack
 
 ### 🌟 Frontend
@@ -28,10 +26,9 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-
-
+<br />
+<br />
+<br />
 
 ## 🚀 Featured Projects
 
@@ -40,19 +37,17 @@
 
 ### [TaskManager](https://github.com/taejun0/taskmanager)
 🛠 A productivity app for task and project management.
-
-
-
-
+<br />
+<br />
+<br />
 
 ## 🌟 Fun Facts
 - 📚 I enjoy reading tech blogs.
 - 🎮 Love playing strategy games.
 - ☕ Addicted to coffee while coding.
-
-
-
-
+<br />
+<br />
+<br />
 
 ## 📬 CONTACT
 
@@ -61,10 +56,9 @@
   <a href="https://sun-lion-6a8.notion.site/165d2e24d08b80d6a99dc1bda370775c?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
   <a href="https://velog.io/@taejun0/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"></a>
 </div>
-
-
-
-
+<br />
+<br />
+<br />
 
 ## 📈 GitHub Activity
 
