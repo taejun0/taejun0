@@ -31,6 +31,8 @@
 
 
 
+
+
 ## 🚀 Featured Projects
 
 ### [EcoTrack](https://github.com/taejun0/ecotrack)
@@ -41,10 +43,14 @@
 
 
 
+
+
 ## 🌟 Fun Facts
 - 📚 I enjoy reading tech blogs.
 - 🎮 Love playing strategy games.
 - ☕ Addicted to coffee while coding.
+
+
 
 
 
@@ -55,6 +61,8 @@
   <a href="https://sun-lion-6a8.notion.site/165d2e24d08b80d6a99dc1bda370775c?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
   <a href="https://velog.io/@taejun0/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"></a>
 </div>
+
+
 
 
 
