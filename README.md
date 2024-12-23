@@ -28,8 +28,8 @@
 ## 📬 CONTACT
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohtaetaejun@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://sun-lion-6a8.notion.site/165d2e24d08b80d6a99dc1bda370775c?pvs=4)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@taejun0/posts)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://your-notion-link](https://sun-lion-6a8.notion.site/165d2e24d08b80d6a99dc1bda370775c?pvs=4))
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)]([https://velog.io/@your-velog-id](https://velog.io/@taejun0/posts))
 
 
 <!--
