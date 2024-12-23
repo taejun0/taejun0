@@ -44,10 +44,10 @@
 <br />
 <br />
 
-## 🌟 Fun Facts
-- 📚 I enjoy reading tech blogs.
-- 🎮 Love playing strategy games.
-- ☕ Addicted to coffee while coding.
+## 🌟 About Me
+- 📚 목표 달성은 물론 그 과정 속에서 기쁨을 찾습니다!
+- 🗓️ 함께 정한 기한은 반드시 지켜요!
+- ☕ 문제가 생겨도 대화를 통해 함께 해결할 수 있는 방향을 찾아요!
 <br />
 <br />
 <br />
