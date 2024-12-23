@@ -3,6 +3,13 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{taejun0}"/>
 </a>
+## 🌟 About Me
+- 📚 목표 달성은 물론 그 과정 속에서 기쁨을 찾습니다!
+- 🗓️ 함께 정한 기한은 반드시 지켜요!
+- ☕ 문제가 생겨도 대화를 통해 함께 해결할 수 있는 방향을 찾아요!
+<br />
+<br />
+<br />
 
 ## 🛠 Tech Stack
 
@@ -52,10 +59,9 @@
 <br />
 <br />
 
-## 🌟 About Me
-- 📚 목표 달성은 물론 그 과정 속에서 기쁨을 찾습니다!
-- 🗓️ 함께 정한 기한은 반드시 지켜요!
-- ☕ 문제가 생겨도 대화를 통해 함께 해결할 수 있는 방향을 찾아요!
+## 📈 GitHub Activity
+
+[![Taejun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taejun0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br />
 <br />
 <br />
@@ -67,10 +73,5 @@
   <a href="https://sun-lion-6a8.notion.site/165d2e24d08b80d6a99dc1bda370775c?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"></a>
   <a href="https://velog.io/@taejun0/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog"></a>
 </div>
-<br />
-<br />
-<br />
-
-## 📈 GitHub Activity
-
-[![Taejun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taejun0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaejun0&count_bg=%23FFC0CB&title_bg=%23555555&icon=smugmug.svg&icon_color=%23FFDD00&title=Visitors&edge_flat=false)
