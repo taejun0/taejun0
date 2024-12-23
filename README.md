@@ -1,8 +1,12 @@
 ![Hi, It's Taejun's GitHub](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Taejun's%20Github!&fontSize=45&fontAlign=50&fontAlignY=40&desc=Frontend%20Dev%20|%20Backend%20Enthusiast&descAlign=50&descAlignY=70&descSize=20)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{taejun0}"/>
+<img
+  src="https://render.gitanimals.org/farms/taejun0"
+  width="100%"
+/>
 </a>
+<br/>
 
 ## 🌟 About Me
 - 📚 목표 달성은 물론 그 과정 속에서 기쁨을 찾습니다!
