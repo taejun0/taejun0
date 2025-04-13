@@ -66,7 +66,6 @@
 
 ## 📈 GitHub Activity
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/taejun0&count_bg=%23FFC0CB&title_bg=%23555555&icon=smugmug.svg&icon_color=%23FFDD00&title=Visitors&edge_flat=false)
 [![Taejun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taejun0&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejun0&layout=compact&theme=radical)
 <br />
