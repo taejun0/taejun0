@@ -55,8 +55,8 @@
 ### [2024-DGUfallfestival](https://github.com/LikeLion-at-DGU/2024_fall_festival_front)
 🍁 2024 동국대학교 가을 축제 사이트, 부스끼리 - 프론트엔드 팀원 및 대외협력 팀장
 
-### [ChocoExpress](https://github.com/Choco-Express/Choco-Express-FE)
-🍫 온라인 초콜릿 배달 서비스, 쵸코 익스프레스 - 프론트엔드 팀원
+### [DongBak](https://github.com/LikeLion-at-DGU/2025_DongBak_Frontend))
+🌳 2025 동국대학교 동아리 박람회 사이트, 동아리랑 - 프론트엔드 팀원
 
 ### [Udongchin](https://github.com/taejun0/2024_udongchin_front)
 🐿️ 우리 주변 동물들에게 깊은 관심을, 우동친 - 프론트엔트 팀장
