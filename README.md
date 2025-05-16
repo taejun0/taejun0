@@ -55,7 +55,7 @@
 ### [2024-DGUfallfestival](https://github.com/LikeLion-at-DGU/2024_fall_festival_front)
 🍁 2024 동국대학교 가을 축제 사이트, 부스끼리 - 프론트엔드 팀원 및 대외협력 팀장
 
-### [DongBak](https://github.com/LikeLion-at-DGU/2025_DongBak_Frontend))
+### [DongBak](https://github.com/LikeLion-at-DGU/2025_DongBak_Frontend)
 🌳 2025 동국대학교 동아리 박람회 사이트, 동아리랑 - 프론트엔드 팀원
 
 ### [Udongchin](https://github.com/taejun0/2024_udongchin_front)
