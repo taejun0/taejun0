@@ -61,8 +61,7 @@
 ### [Udongchin](https://github.com/taejun0/2024_udongchin_front)
 🐿️ 우리 주변 동물들에게 깊은 관심을, 우동친 - 프론트엔트 팀장
 
-### [D-order](https://github.com/taejun0/2025-d-order-frontend-admin.git)
-### [D-order](https://github.com/taejun0/2025-d-order-frontend-customer.git)
+### [D-order admin](https://github.com/taejun0/2025-d-order-frontend-admin.git) [D-order customer](https://github.com/taejun0/2025-d-order-frontend-customer.git)
 🧾 동국대학교 축제 부스 운영 및 주문 서비스, D-order - 프론트엔트 팀장
 <br />
 <br />
