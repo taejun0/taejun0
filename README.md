@@ -9,9 +9,9 @@
 <br/>
 
 ## 🌟 About Me
-- 📚 목표 달성은 물론 그 과정 속에서 기쁨을 찾습니다!
-- 🗓️ 함께 정한 기한은 반드시 지켜요!
-- ☕ 문제가 생겨도 대화를 통해 함께 해결할 수 있는 방향을 찾아요!
+- 사용자 경험과 운영 안정성을 함께 고민하는 풀스택 개발자입니다.
+- React, Next.js, TypeScript 기반의 웹 서비스를 주로 개발합니다.
+- 최근에는 Spring, Database, Infra까지 학습하며 서비스 전체 흐름을 이해하는 개발자로 성장하고 있습니다.
 <br />
 <br />
 <br />
@@ -67,17 +67,39 @@
 
 ## 🚀 Featured Projects
 
-### [2024-DGUfallfestival](https://github.com/LikeLion-at-DGU/2024_fall_festival_front)
-🍁 2024 동국대학교 가을 축제 사이트, 부스끼리 - 프론트엔드 팀원 및 대외협력 팀장
+### 🧾 D-order  
 
-### [DongBak](https://github.com/LikeLion-at-DGU/2025_DongBak_Frontend)
-🌳 2025 동국대학교 동아리 박람회 사이트, 동아리랑 - 프론트엔드 팀원
+동국대학교 축제 부스 운영 및 주문 서비스  
+Frontend Lead
+- 실시간 주문 상태 관리 및 관리자/고객 페이지 개발
+- WebSocket 기반 주문 흐름 설계
+- React Query를 활용한 서버 상태 관리
+- 축제 현장에서 실제 운영된 서비스
+**Tech Stack**: React, TypeScript, Zustand, TanStack Query, Styled-components
 
-### [Udongchin](https://github.com/taejun0/2024_udongchin_front)
-🐿️ 우리 주변 동물들에게 깊은 관심을, 우동친 - 프론트엔드 팀장
+---
 
-### [D-order admin](https://github.com/taejun0/2025-d-order-frontend-admin.git) [D-order customer](https://github.com/taejun0/2025-d-order-frontend-customer.git)
-🧾 동국대학교 축제 부스 운영 및 주문 서비스, D-order - 프론트엔드 팀장
+### 🌳 DongBak
+
+2025 동국대학교 동아리 박람회 서비스, 동아리랑  
+Frontend Developer
+- 동아리 정보 탐색 및 공연 일정 확인 UI 개발
+- 검색/필터링 UX 개선
+- 반응형 화면 구성 및 사용자 접근성 고려
+**Tech Stack**: React, TypeScript, Styled-components  
+**Repository**: [DongBak](https://github.com/LikeLion-at-DGU/2025_DongBak_Frontend)
+
+---
+
+### 🐿️ Udongchin
+
+우리 주변 동물 제보 및 지도 기반 커뮤니티 서비스  
+Frontend Lead
+- 지도 기반 동물 제보 UI 개발
+- 위치 기반 데이터 표시 및 마커 렌더링 구조 개선
+- 사용자 제보 흐름과 커뮤니티 화면 구현
+**Tech Stack**: React, TypeScript, Kakao/Naver Map API, Styled-components  
+**Repository**: [Udongchin](https://github.com/taejun0/2024_udongchin_front)
 <br />
 <br />
 <br />
